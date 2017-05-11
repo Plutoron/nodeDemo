@@ -1,6 +1,6 @@
 #nodeDemo
 
-## 小相册 formidable 文件上传
+## 小相册 formidable 文件上传 ejs模板
 
 ```
 # 安装
